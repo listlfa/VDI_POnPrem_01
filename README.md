@@ -9,6 +9,9 @@ Environment - P's Desktop Virtualisation - Setup 01 (2015)
 - Visit in IE https://downloads.puppetlabs.com/windows/ and add to trusted site
   - Otherwise you get the error
     - Error: Could not connect via HTTPS to https://forgeapi.puppetlabs.com
+- Run
+  - puppet module install compete/hiera_yamlgpg
+  - 
 
 ##Modules
 ###AD
