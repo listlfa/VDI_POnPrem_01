@@ -1,4 +1,5 @@
-# env_pdv_01
+# VDI_POnPrem_01
+
 Environment - P's Desktop Virtualisation - Setup 01 (2015)
 
 ##Installers
