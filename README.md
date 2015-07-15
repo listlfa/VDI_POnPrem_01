@@ -19,4 +19,6 @@ Environment - P's Desktop Virtualisation - Setup 01 (2015)
 - https://forge.puppetlabs.com/trlinkin/domain_membership
 - puppet module install trlinkin-domain_membership
 
+## Active Directory Domain Controller
+https://github.com/listlfa/VDI_POnPrem_01/blob/master/AD_DC.md
 
